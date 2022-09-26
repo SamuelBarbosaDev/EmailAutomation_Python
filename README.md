@@ -1,5 +1,4 @@
-# AutomacaoDeEmail-Python
-<h1Automação de E-mail</h1>
+<h1>Automação de E-mail</h1>
 <h3>Objetivo:</h3>
     <p>
      Criar uma Automação para o meu Gmail.
