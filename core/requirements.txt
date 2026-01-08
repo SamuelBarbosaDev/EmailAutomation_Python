@@ -17,5 +17,5 @@ python-decouple==3.6
 requests==2.32.4
 tomli==2.0.1
 typing_extensions==4.4.0
-urllib3==2.5.0
+urllib3==2.6.3
 yagmail==0.15.293
